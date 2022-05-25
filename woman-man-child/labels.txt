@@ -1,0 +1,3 @@
+0 woman
+1 man
+2 child
