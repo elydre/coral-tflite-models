@@ -1,0 +1,4 @@
+0 ok
+1 droite
+2 gauche
+3 envers
