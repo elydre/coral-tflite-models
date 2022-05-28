@@ -1,2 +1,2 @@
 # coral-tflite-models
-models tensorflow lite compatible dev board
+models tensorflow lite compatible [dev board](https://coral.ai)
